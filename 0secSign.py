@@ -9,13 +9,13 @@ base64_image = ''
 base64_uuid = ''
 
 #验证码账号密码http://api.ttshitu.com
-VCUSER  = os.environ["VCUSER"]
-VCPASS  = os.environ["VCPASS"]
+VCUSER  = os.environ["Eurekaovo"]
+VCPASS  = os.environ["aszxdf123"]
 
 #文库账号密码
-ZSECWIKIUSER  = os.environ["ZSECWIKIUSER"]
+ZSECWIKIUSER  = os.environ["Eurekaovo"]
 
-ZSECWIKIPASS  = os.environ["ZSECWIKIPASS"]
+ZSECWIKIPASS  = os.environ["QWEaszxdf123"]
 
 
 # 推送类型
